@@ -1,0 +1,140 @@
+
+nav {
+   text-align: center;
+   justify-content: center;
+   position: absolute;
+   color:azure;
+   z-index: 2;
+   font-size: medium;
+   font-optical-sizing: 100px;
+   text-decoration-color: aliceblue;
+   
+   top:0Px;
+}
+
+nav ul {
+   display:inline-block;
+   list-style:none; 
+
+
+}
+
+nav li{  float:left;
+   font-family: Times, Times New Roman, serif;
+   font-size: 15px;
+   font-stretch: expanded;
+   color:black;
+   z-index: 3;
+
+
+}  { 
+
+   
+   
+}
+.list1{
+   padding-left: 130px;
+}
+
+   
+.tag1{
+    
+   padding-left:30% ;
+   padding-right: %;
+   text-align: justify;
+   
+   
+}
+.tag4{
+   padding-left: 5%;
+   text-size-adjust:5px;
+}
+.tag5{
+   text-overflow: clip;
+}
+.main1{
+   background-color: rgb(97, 201, 166);
+   color: white;
+   
+}
+
+.main2{ 
+   display: flex;
+  flex-direction: row;
+
+}
+   
+.tag13{
+   color: yellow;
+   padding-bottom: 10%;
+ 
+}
+
+
+
+.contanier{
+
+   width: 100%;
+   margin: auto;
+   
+   
+}
+.photogallery{
+   padding:1rem;
+   display: flex;
+   gap:10px;
+   padding-inline-start: 10%;
+   padding-inline-end: 10%;
+}
+.column{
+   display: flex;
+   flex-direction: column;
+   gap:20px
+}
+.images img{
+   width: 100%;
+   height: 100%;
+   border-radius: 6px;
+}
+nav ul li:hover{
+   color:rgb(21, 220, 154);
+   
+}
+hover .frame{
+   object-fit: cover;
+   transition: transform;
+
+}
+
+nav1{
+   text-align: center;
+   justify-content: center;
+   position: absolute;
+   color:azure;
+   z-index: 2;
+   font-size: medium;
+   font-optical-sizing: 100px;
+   text-decoration-color: aliceblue;
+   background-color: antiquewhite;
+
+}
+
+navul1{
+   display:inline-block;
+   list-style:none; 
+
+}
+navli1{
+   float:left;
+   font-family: Times, Times New Roman, serif;
+   font-size: 15px;
+   font-stretch: expanded;
+   color:black;
+   z-index: 3;
+   background-color: aqua;
+
+}
+nav ul1 li1:hover{
+   background-color: blue;
+   
+}
